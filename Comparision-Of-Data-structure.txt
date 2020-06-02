@@ -1,0 +1,75 @@
+Data structure
+	
+Array (T[])
+
+
+Addition  O(N)
+Search      O(N)
+Deletion        O(N)
+Access by index     O(1)
+
+
+Linked list (LinkedList<T>)
+
+
+Addition  O(1)
+Search      O(N)
+Deletion        O(N)
+Access by index     O(N)
+	
+
+Dynamic array (List<T>)
+	
+Addition  O(1)
+Search      O(N)
+Deletion        O(N)
+Access by index     O(1)
+
+
+Stack (Stack<T>)
+
+Addition  O(1)
+Search      -
+Deletion        O(1)
+Access by index     -
+
+
+Queue (Queue<T>)
+	
+Addition  O(1)
+Search      -
+Deletion        O(1)
+Access by index     -
+
+
+Dictionary, implemented with a hash-table (Dictionary<K, T>)
+	
+Addition  O(1)
+Search      0(1)
+Deletion        O(1)
+Access by index     -
+
+
+Dictionary, implemented with a balanced search tree (SortedDictionary<K, T>)
+	
+Addition  O(log(N))
+Search      O(log(N))
+Deletion        O(log(N))
+Access by index     -
+
+
+Set, implemented with a hash-table (HashSet<T>)
+	
+Addition  O(1)
+Search      0(1)
+Deletion        O(1)
+Access by index     -
+
+
+Set, implemented with a balanced search tree (SortedSet<T>)
+	
+Addition  O(log(N))
+Search      O(log(N))
+Deletion        O(log(N))
+Access by index     -
+
