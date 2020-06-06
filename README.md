@@ -1,2 +1,2 @@
 # competive-coding
-Problems and their solutions. 
+Accumalation of resources, materials ,some problems and their solutions. 
