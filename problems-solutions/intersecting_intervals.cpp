@@ -32,7 +32,7 @@ public:
 		vector<vector<int>> res;
         vector<vector<int>> temp(2);
 
-        while (Aptr < sizeA && j < sizeB)
+        while (aptr < sizeA && bptr < sizeB)
         {	
 			if(B[bptr][0]<=A[aptr][1] && A[aptr][0]<=B[bptr][1])
 			{
